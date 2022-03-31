@@ -108,6 +108,7 @@ If you see something missing - please submit a PR 🙏
 
 ## 📅 Upcoming NFT Drops
 
+- [Moonly](https://moon.ly) - NFT discovery and analytic tool for Solana
 - [How Rare Drops](https://howrare.is/drops) - SOL specific drops. In my experience this has the widest coverage. No pics tho:(
 - [Solanalysis Upcoming Drops](https://solanalysis.com/upcoming) - SOL specific drops.
 - [Next Drop](https://nextdrop.is/upcoming?chain=solana) - multi-chain drop info, includes Solana (filterable)
